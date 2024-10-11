@@ -4,11 +4,11 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 import com.google.gson.Gson;
 
-public class ApiService {
+public class ServicoDeApi {
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/b4894db8127b127f00d015da/latest/USD";
     private HttpClient client;
 
-    public ApiService() {
+    public ServicoDeApi() {
         this.client = HttpClient.newHttpClient();
     }
 
