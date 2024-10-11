@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3e0759b-586d-4449-8e41-067c1a1defbc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConversorDeMoeda.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ConversorDeMoeda.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrencyData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrencyData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ServicoDeApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServicoDeApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +31,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Gustavolrs/ConversorDeMoeda.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/Gustavolrs/conversao-de-moedas.git&quot;,
     &quot;accountId&quot;: &quot;b2d2ab94-1cdf-4652-b65f-1b85fd1b24c5&quot;
   }
 }</component>
@@ -60,7 +55,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gustavo/Desktop/Projetos/Projetos Intelij&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gustavo/Desktop/Projetos/Intelij/ConversorDeMoeda&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -111,7 +106,12 @@
       <workItem from="1728672798581" duration="2000" />
       <workItem from="1728673034396" duration="608000" />
       <workItem from="1728674001618" duration="13000" />
-      <workItem from="1728674134398" duration="581000" />
+      <workItem from="1728674134398" duration="1071000" />
+      <workItem from="1728675233351" duration="96000" />
+      <workItem from="1728675754120" duration="42000" />
+      <workItem from="1728675885589" duration="99000" />
+      <workItem from="1728676451232" duration="282000" />
+      <workItem from="1728676809687" duration="4000" />
     </task>
     <servers />
   </component>
